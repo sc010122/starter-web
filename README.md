@@ -18,3 +18,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 This is a simple project.
 This is a simple update.
+
+## Copyright
+
+2014 Git.Training.
